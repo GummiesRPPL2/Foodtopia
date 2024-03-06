@@ -10,19 +10,27 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: -2253911629886400664, guid: 6eabb1a173ac536438dc0d84bb5180a4, type: 3}
       propertyPath: m_Name
-      value: TreeLog
+      value: PickUpItemPrefab
+      objectReference: {fileID: 0}
+    - target: {fileID: 3626916397498700004, guid: 6eabb1a173ac536438dc0d84bb5180a4, type: 3}
+      propertyPath: m_Sprite
+      value: 
       objectReference: {fileID: 0}
     - target: {fileID: 3626916397498700004, guid: 6eabb1a173ac536438dc0d84bb5180a4, type: 3}
       propertyPath: m_SortingOrder
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 3626916397498700004, guid: 6eabb1a173ac536438dc0d84bb5180a4, type: 3}
+      propertyPath: m_WasSpriteAssigned
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7878350319992209165, guid: 6eabb1a173ac536438dc0d84bb5180a4, type: 3}
       propertyPath: m_LocalScale.x
-      value: 0.25
+      value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: 7878350319992209165, guid: 6eabb1a173ac536438dc0d84bb5180a4, type: 3}
       propertyPath: m_LocalScale.y
-      value: 0.25
+      value: 0.5
       objectReference: {fileID: 0}
     - target: {fileID: 7878350319992209165, guid: 6eabb1a173ac536438dc0d84bb5180a4, type: 3}
       propertyPath: m_LocalPosition.x
